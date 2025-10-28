@@ -1,6 +1,6 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
-## NAME: AGASH S
-## ROLL NO: 212224040014
+## NAME: VISHWA V
+## ROLL NO: 212224110062
 
 # AIM:
 To draw the UML diagram for Library Management System.
